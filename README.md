@@ -5,7 +5,7 @@ This zip folder contains 2 projects: "Back-End API" & "Front-End Vue"
 
 To access the website you must first:
 
-1). In the "Back-End API" folder - run the Project Solution (EksamensProjekt3) inside Viusal Studio
+1). In the "Back-End API" folder - run the Project Solution (EksamensProjekt3) inside Visual Studio
 
 2). Then open the "Front-End Vue" folder in VS-Code
 
